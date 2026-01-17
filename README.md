@@ -10,7 +10,7 @@ I’m an 18-year-old passionate about coding and software development. I love ex
 ---
 
 ### 🛠️ Skills & Interests
-- **Languages:** Python, JavaScript, C++
+- **Languages:** Python, JavaScript, Golang
 - **Technologies:** Git, APIs, Web Development
 - **Interests:** Open-source projects, automation, software engineering
 
